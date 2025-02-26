@@ -1,4 +1,4 @@
-Here is the updated Business Requirements Document (BRD) with the **Compliance and Regulatory Standards** section removed as per the user's request:
+Here is the updated Business Requirements Document (BRD) with the **Data Privacy Rules** section removed as per the user's request:
 
 ---
 
@@ -30,22 +30,6 @@ To meet the compliance requirements, the following security measures will be imp
 
 6. **Data Breach Response Plan**:
    - Establish a plan to detect, respond to, and notify stakeholders of data breaches.
-
----
-
-### **Data Privacy Rules**
-
-1. **Data Minimization**:
-   - Only collect and store data necessary for the system's functionality.
-
-2. **User Consent**:
-   - Obtain explicit consent from users before collecting their personal data.
-
-3. **Right to Access and Erasure**:
-   - Provide users with the ability to access and delete their personal data.
-
-4. **Data Retention**:
-   - Define and enforce data retention policies to delete data that is no longer needed.
 
 ---
 
@@ -110,8 +94,8 @@ The compliance and security measures will be integrated into the database schema
 
 ---
 
-This updated BRD ensures that the Retail Inventory Management System (RIMS) incorporates robust security measures, data privacy rules, and audit controls.
+This updated BRD ensures that the Retail Inventory Management System (RIMS) incorporates robust security measures and audit controls.
 
 --- 
 
-The **Compliance and Regulatory Standards** section has been removed as requested. Let me know if you need further modifications!
+The **Data Privacy Rules** section has been removed as requested. Let me know if you need further modifications!
